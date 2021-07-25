@@ -105,7 +105,6 @@ img {
   <div class="dropTarget"></div>
 </div>
 </div>
- </div>
 <br>
 
 </body>
