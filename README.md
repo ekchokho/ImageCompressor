@@ -1,6 +1,5 @@
 # imagecompress.github.io
 
-<!DOCTYPE html>
 <html>
 <title>Convert Image to Webp Format</title>
 <head>
@@ -220,15 +219,4 @@ function setDragDrop(area, callback) {
 setDragDrop(document.documentElement, processFiles);
 </script>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2021 Ekchokho
