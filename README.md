@@ -1,7 +1,8 @@
-# imagecompress.github.io
+# Image Compress Free Tool
 
 <html>
-<title>Convert Image to Webp Format</title>
+<title>Convert Image to Webp Format</title>	
+<title>Compress or Reduce Image Size</title>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Jpeg To Webp Converter, Jpeg To Webp Converter Tool, Convert Jpeg To Webp, Compress Webp, Jpg To Webp Python, Jpg To Url, Webp Converter Download Free Convert Jpeg To Webp"/>
@@ -41,7 +42,7 @@ img {
   flex-grow: 20;
 }
 .dropTarget::before {
-  content: 'Drop files here';
+  content: 'Drop files here or Select From Galary';
   color: silver;
   font-size: 5vh;
   height: 5vh;
@@ -218,4 +219,4 @@ function setDragDrop(area, callback) {
 setDragDrop(document.documentElement, processFiles);
 </script>
 </html>
-© 2021 Ekchokho
+© 2021 by-Ekchokho | Technical Management Team, MAKAUT Mentor
